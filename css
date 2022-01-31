@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+header p{
+    text-align: center;
+}
+
+header a{
+    border-bottom: solid black 4px;
+    color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+main h1{
+    text-align: center;
+}
+
+main img src{
+    text-align: center;
+}
